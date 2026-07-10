@@ -1,4 +1,4 @@
-# General Skills Video 1 Notes
+# General Skills in CTF's Video 1 Notes
 ## CyberChef and Decimals
 1. Use CyberChef online to convert between any decimal
 2. Use "From Base" box to convert any decimals to Base 10
