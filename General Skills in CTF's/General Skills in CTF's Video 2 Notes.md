@@ -42,8 +42,8 @@ chmod command: Modify file permissions
 7. apt command: Program Management System, use it to install app or program (Ex: sudo apt install gimp)
 8. sudo command: Linux Root User, Highest Privilege (Ex: sudo -i)
 ## Basic Program Concepts
-input ----> Program ----> output ----> Terminal Window
-Example: echo "Hello" ----> echo Program ----> "Hello" ----> "Hello"
-Terminal = STDOUT = STDERR
-File Redirection: Export the result of a command to a file (Ex: grep "hello" file.txt > answer.txt)
-| symbol: Packaged to (Ex: strings unknown_file | grep "picoCTF" | less) ---> Use less to print out the results contain "picoCTF" from the unknown_file
+1. input ----> Program ----> output ----> Terminal Window
+2. Example: echo "Hello" ----> echo Program ----> "Hello" ----> "Hello"
+3. Terminal = STDOUT = STDERR
+4. File Redirection: Export the result of a command to a file (Ex: grep "hello" file.txt > answer.txt)
+5. | symbol: Packaged to (Ex: strings unknown_file | grep "picoCTF" | less) ---> Use less to print out the results contain "picoCTF" from the unknown_file
